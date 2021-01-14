@@ -1,0 +1,29 @@
+TP MASTER ISD 5 OCTOBRE 2020
+************************************************
+PLONGEMENT LEXICAUX ET RECONNAISSANCE D'ENTITES 
+************************************************
+Corpus QUAERO_FrenchPress
+- corpus complet, tokenisé, une phrase par ligne, à utiliser pour construire des plongements lexicaux
+   * QUAERO_FrenchPress_traindev.ospl
+
+- corpus segmenté en entrainement/développement/test, format conll, à utiliser pour construire un modèle de reconnaissance d'entités 
+   * fra4_ID.train
+   * fra4_ID.dev
+   * fra4_ID.test
+
+Corpus QUAERO_FrenchMed
+- corpus complet, tokenisé, une phrase par ligne, à utiliser pour construire des plongements lexicaux
+   * QUAERO_FrenchMed_traindev.ospl
+- corpus complémentaire, tokenisé, une phrase par ligne, à utiliser pour construire des plongements lexicaux
+   * MEDLINE_FR_tok.ospl
+
+- corpus segmenté en entrainement/développement/test, format conll, à utiliser pour construire un modèle de reconnaissance d'entités 
+(notices de médicaments)
+   * EMEA/EMEAtrain_layer1_ID.conll
+   * EMEA/EMEAdev_layer1_ID.conll
+   * EMEA/EMEAtest_layer1_ID.conll
+(titres d'articles scientifiques)
+   * MEDLINE/MEDLINEtrain_layer1_ID.conll
+   * MEDLINE/MEDLINEdev_layer1_ID.conll
+   * MEDLINE/MEDLINEtest_layer1_ID.conll
+
