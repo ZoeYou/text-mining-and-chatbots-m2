@@ -1,0 +1,30 @@
+{
+    "instance2index": {
+        "_PAD_NER": 0,
+        "b-pers": 1,
+        "i-pers": 2,
+        "O": 3,
+        "b-prod": 4,
+        "i-prod": 5,
+        "b-loc": 6,
+        "i-loc": 7,
+        "b-func": 8,
+        "b-org": 9,
+        "i-org": 10,
+        "i-func": 11
+    },
+    "instances": [
+        "_PAD_NER",
+        "b-pers",
+        "i-pers",
+        "O",
+        "b-prod",
+        "i-prod",
+        "b-loc",
+        "i-loc",
+        "b-func",
+        "b-org",
+        "i-org",
+        "i-func"
+    ]
+}

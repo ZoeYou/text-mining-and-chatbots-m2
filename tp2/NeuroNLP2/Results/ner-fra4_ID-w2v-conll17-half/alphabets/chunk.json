@@ -1,0 +1,10 @@
+{
+    "instance2index": {
+        "_PAD_CHUNK": 0,
+        "dummy": 1
+    },
+    "instances": [
+        "_PAD_CHUNK",
+        "dummy"
+    ]
+}
