@@ -1,0 +1,12 @@
+processed 13543 tokens with 1905 phrases; found: 1320 phrases; correct: 720.
+accuracy:  86.26%; precision:  54.55%; recall:  37.80%; FB1:  44.65
+             ANAT: precision:   8.57%; recall:   4.69%; FB1:   6.06  35
+             CHEM: precision:  51.20%; recall:  25.10%; FB1:  33.68  375
+             DEVI: precision:   0.00%; recall:   0.00%; FB1:   0.00  17
+             DISO: precision:  41.00%; recall:  48.39%; FB1:  44.39  439
+             GEOG: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+             LIVB: precision:  91.67%; recall:  62.86%; FB1:  74.58  168
+             OBJC: precision:  25.00%; recall:   6.52%; FB1:  10.34  12
+             PHEN: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+             PHYS: precision:  52.73%; recall:  23.39%; FB1:  32.40  55
+             PROC: precision:  72.60%; recall:  69.13%; FB1:  70.82  219

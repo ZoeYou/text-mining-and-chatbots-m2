@@ -1,7 +1,7 @@
-processed 13543 tokens with 1905 phrases; found: 484 phrases; correct: 104.
-accuracy:  80.54%; precision:  21.49%; recall:   5.46%; FB1:   8.71
+processed 13543 tokens with 1905 phrases; found: 0 phrases; correct: 0.
+accuracy:  80.03%; precision:   0.00%; recall:   0.00%; FB1:   0.00
              ANAT: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
-             CHEM: precision:  21.49%; recall:  13.59%; FB1:  16.65  484
+             CHEM: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
              DEVI: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
              DISO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
              GEOG: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
